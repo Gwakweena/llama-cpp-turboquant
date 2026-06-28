@@ -1402,16 +1402,6 @@ jobs:
       - windows-cpu
       - windows-cuda
       #- windows-sycl
-      - windows-hip
-      - ubuntu-22-rocm
-      - ubuntu-cpu
-      - ubuntu-vulkan
-      - ubuntu-24-openvino
-      #- ubuntu-24-sycl
-      - android-arm64
-      - macos-cpu
-      - ios-xcode
-      #- openEuler-cann
       - ui-build
 
     outputs:
